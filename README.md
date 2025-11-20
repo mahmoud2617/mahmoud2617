@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋, I'm Mahmoud Mohammed
 
-<!--
-**mahmoud2617/mahmoud2617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+- 🖥️ Passionate about Backend Development and Problem-Solving
+- 🌱 Currently learning Spring Boot, PostgreSQL, and Advanced Java
+- 💡 I love building projects that solve real-world problems
+- 🌍 Goal: Work as a backend engineer in the US or UK
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+- Languages: Java, Python, C++
+- Backend: Spring Boot
+- Databases: PostgreSQL, MySQL
+- Other: Git, REST APIs, Linux
