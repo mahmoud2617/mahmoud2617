@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg?text=Welcome%20to%20Mahmoud's%20GitHub!&fontColor=ffffff&type=waving&height=220&fontSize=40&color=gradient" />
-</p>
-
 <h1 align="center">Hi there, I'm Mahmoud 👋</h1>
 
 ## 🚀 About Me  
