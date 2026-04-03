@@ -1,17 +1,18 @@
-<h1 align="center">Hi there, I'm Mahmoud 👋</h1>
+# Mahmoud Mohammed
+
+Backend Developer focused on building scalable, reliable, and production-ready systems using Java and Spring Boot.
+
+I design and develop clean backend architectures with a strong emphasis on performance, maintainability, and real-world applicability. My work involves building RESTful APIs, managing data workflows, and ensuring seamless integration between backend services and user-facing applications.
+
+With a solid understanding of frontend development and UI/UX principles, I approach backend engineering with a full-product mindset, aiming to deliver systems that are not only technically sound but also aligned with user experience and business needs.
+
+I am continuously refining my skills in system design, database management, and software architecture, with a focus on building high-quality systems that scale and perform under real-world conditions.
 
 ---
 
-# 💻 Tech Stack:
+**Core Stack:** Java, Spring Boot, REST APIs, PostgreSQL, Docker, Git
+**Focus Areas:** System Design, Scalable Architectures, Backend Performance, Clean Code, Problem Solving
 
-### Languages
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+---
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-### Databases & Migration
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-### DevOps & Tools
-<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+Open to backend opportunities and collaborations where I can contribute to building impactful and high-quality software systems.
